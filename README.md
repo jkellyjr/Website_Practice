@@ -6,6 +6,7 @@ Enviornment Setup:
 Requirements:
   - flask
   - flask-mail
+  - flask-wtforms
   
 Run:
   - chmod a+x run.py
