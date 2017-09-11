@@ -7,8 +7,8 @@ MAIL_SERVER = 'smtp.gmail.com'
 MAIL_PORT = 465
 MAIL_USE_TLS = False
 MAIL_USE_SSL = True
-MAIL_USERNAME = 'silviodemeo@gmail.com'
-MAIL_PASSWORD = 'Willie333+'
+MAIL_USERNAME = 'username@gmail.com'
+MAIL_PASSWORD = 'password'
 
 # administrator list
-ADMINS = ['silviodemeo@gmail.com']
+ADMINS = ['username@mail.com']
