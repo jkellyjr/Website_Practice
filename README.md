@@ -5,7 +5,7 @@ Enviornment Setup:
   
 Requirements:
   - flask
-  - flsak-mail
+  - flask-mail
   
 Run:
   - chmod a+x run.py
