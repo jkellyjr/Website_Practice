@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<header id="header">
+
+    <div class="logo">
+        <span class="icon fa-diamond"></span>
+    </div>
+
+    <div class="content">
+        <div class="inner">
+            <h1>J Kelly Jr</h1>
+            <p>Software Engineer  /  Data Scientist<br />
+        </div>
+    </div>
+    <nav>
+        <ul>
+            <!--<li><a href="#work">Work</a></li>-->
+            <li><a href="{{ url_for("about") }}">About</a></li>
+            <li><a href="{{ url_for("contact") }}">Contact</a></li>
+            <!--<li><a href="#elements">Elements</a></li>-->
+        </ul>
+    </nav>
+</header>
+
+
+
+
+{% endblock %}

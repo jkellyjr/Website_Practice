@@ -1,0 +1,8 @@
+Hello, {{ name }}
+
+This is an automatic email.
+
+Thank you for contacting me, I will review your message and respond when I can.
+
+Regards,
+J. Kelly Jr
